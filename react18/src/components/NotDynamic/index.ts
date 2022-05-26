@@ -1,0 +1,1 @@
+export { NotDynamic } from './NotDynamic';
